@@ -12,7 +12,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("Simple round progressbar")>
 <Assembly: AssemblyCompany("S & M Soft")>
 <Assembly: AssemblyProduct("CircularProgressBarControl")>
-<Assembly: AssemblyCopyright("Copyright © Mike DA Spik 2024")>
+<Assembly: AssemblyCopyright("Copyright © Mike DA Spike 2024")>
 <Assembly: AssemblyTrademark("")>
 
 <Assembly: ComVisible(False)>
