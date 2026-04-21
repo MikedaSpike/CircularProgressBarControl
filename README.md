@@ -1,3 +1,11 @@
+![Latest Release](https://img.shields.io/github/v/release/MikedaSpike/CircularProgressBarControl)
+![Downloads](https://img.shields.io/github/downloads/MikedaSpike/CircularProgressBarControl/total)
+![License](https://img.shields.io/github/license/MikedaSpike/CircularProgressBarControl)
+![Issues](https://img.shields.io/github/issues/MikedaSpike/CircularProgressBarControl)
+![Last Commit](https://img.shields.io/github/last-commit/MikedaSpike/CircularProgressBarControl)
+![Commit Activity](https://img.shields.io/github/commit-activity/m/MikedaSpike/CircularProgressBarControl)
+![Stars](https://img.shields.io/github/stars/MikedaSpike/CircularProgressBarControl)
+
 # CircularProgressBarControl
 A custom circular progress bar control for Windows Forms applications.
 
