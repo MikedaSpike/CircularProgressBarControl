@@ -139,6 +139,16 @@ End Class
 
 ![Cancell](https://github.com/user-attachments/assets/0f19289d-8d8c-461c-a4c2-7ff67ecf79a1)
 
-
+---
 # License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+### Support my projects
+  
+Do you find my work for Pinball or my other projects useful? A coffee (or a pinball part) is always greatly appreciated!
+
+<a href="https://www.buymeacoffee.com/q5dlxoaayq">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" width="160" />
+</a>
+
